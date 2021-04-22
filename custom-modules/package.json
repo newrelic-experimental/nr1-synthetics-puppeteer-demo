@@ -1,0 +1,14 @@
+{
+  "name": "custom-modules",
+  "version": "1.0.0",
+  "description": "",
+  "author": "Benedicto Tan",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "puppeteer": "^1.19.0",
+    "nr-insights-client": "file:./nr-insights-client",
+    "page-har": "file:./page-har",
+    "performance-timing": "file:./performance-timing",
+    "syntheticrequest-parser": "file:./syntheticrequest-parser"
+  }
+}
